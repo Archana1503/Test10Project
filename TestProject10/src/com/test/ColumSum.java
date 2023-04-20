@@ -13,6 +13,7 @@ public class ColumSum {
 		}
 		System.out.print("sum="+sum);
 		System.out.println();
+		System.out.println("column disaplay");
 		
 	}
 }
